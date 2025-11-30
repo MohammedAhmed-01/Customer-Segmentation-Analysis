@@ -1,5 +1,8 @@
-```markdown
 # Customer Segmentation Analysis - Power BI Project
+
+
+---
+
 
 ![Customer Segmentation](diagram/Customer_Segmentation.png)
 
